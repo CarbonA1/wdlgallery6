@@ -1,0 +1,19 @@
+nav {
+    background-color: red;
+    width: 100%;
+    overflow: auto;
+}
+
+body {
+    background-color: yellow;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-size: 30px;
+    margin-right: 20px;
+    float: left;
+}
